@@ -1,0 +1,8 @@
+{
+  "name": "agent-context-merger",
+  "version": "0.1.0",
+  "description": "Agent notes that live in the branch and merge when the code merges. A git merge driver combines both branches' notes, sorts them by time, and flags decisions the branches made differently.",
+  "author": { "name": "JustinFWu" },
+  "license": "MIT",
+  "repository": "https://github.com/JustinFWu/agent-context-merger"
+}
